@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">Recent Graduate - Machine Learning, Web Development, SQL, HTML, CSS, JavaScript, NodeJS, ReactJS</h3>
+<h3 align="center">Graduate - Machine Learning, Web Development, SQL, HTML, CSS, JavaScript, NodeJS, ReactJS</h3>
 
 - 🔭 I’m currently working on **Machine Learning Models**
 
